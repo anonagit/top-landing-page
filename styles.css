@@ -3,7 +3,8 @@ body {
 }
 
 
-header {
+header,
+footer {
     background-color: #1F2937;
 }
 
@@ -153,6 +154,7 @@ img {
 .adv-text p {
     font-size: 18px;
     color: #E5E7EB;
+    margin-top: 0px;
 }
 
 .sign-up { /* the button */
@@ -164,4 +166,12 @@ img {
     text-align: center;
     font-weight: bold;
     max-width: 100px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding: 20px;
 }
