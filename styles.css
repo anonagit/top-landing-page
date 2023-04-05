@@ -161,6 +161,7 @@ img {
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 5px 15px;
+    border-style: solid;
     border-radius: 8px;
     border-color: white;
     text-align: center;
